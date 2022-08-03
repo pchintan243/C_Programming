@@ -1,0 +1,1 @@
+print("dg","world\n")

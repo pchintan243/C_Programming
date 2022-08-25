@@ -1,1 +1,0 @@
-print("dg","world\n")

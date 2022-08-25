@@ -1,1 +1,8 @@
 *.exe
+.vscode/
+check.c
+check1.c
+check2.c
+check.cpp
+check1.cpp
+check2.cpp
